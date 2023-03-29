@@ -67,6 +67,11 @@ const peopleYouShouldKnow = {
     Martin: "Fowler",
     Erich: "Gamma"
 }
+
+function najdulja(peopleYouShouldKnow) {
+    consol.log.length(najdulja)
+    
+}
 //INPUT: somePeople
 //OUTPUT: "Stroustrup"
 
@@ -118,3 +123,10 @@ const someEvents = [
 ];
 //INPUT: (someStates, 48.5)
 //OUTPUT: [{stateName: "Grcka", measuredTemperature: 48.0}]
+
+function drzave(someEvents) {
+    INPUT: (someStates, 48.5)
+
+    consol.log ('[{stateName: "Grcka", measuredTemperature: 48.0}]')
+    
+}
