@@ -1,7 +1,7 @@
 //1 (3 BODA)
 //Napisi funkciju koja ispisuje neparne brojeve od 0 do 100
 
-const parni [];
+Array : parni [100], (0,100);
 if (parni % 2!=0);
 
 console.log.parni;
@@ -19,7 +19,7 @@ const godisnje;
 
 switch (1) {
     case 
-    console.log ("jesen");
+    console.log ("jesen"):
         
         break;
 
@@ -31,7 +31,7 @@ switch (1) {
 
 switch (3) {
     case 
-    console.log ("Ljeto");
+    console.log ("Ljeto"):
         
         break;
 
@@ -45,9 +45,7 @@ switch (3) {
 //INPUT: "Pisanje zadataka nije jednostavan posao"
 //OUTPUT: ("oasop navatsondej ejin akatadaz ejnasiP", 39)
 
-var rec, ( 
-    
-    "Pisanje zadataka nije jednostavan posao");
+var rec ( "Pisanje zadataka nije jednostavan posao");
 
 function okrenime(rec) {
 
@@ -76,6 +74,13 @@ const peopleYouShouldKnow = {
 //Napisi funkciju u obliku function expressiona koja vraca neproste brojeve
 //INPUT: [3, 4, 5, 8, 11]
 //OUTPUT: [4, 5, 8]
+
+
+const prostak = [3, 4, 5, 8, 11];
+
+function nesto (prostak) {
+    
+}
 
 //ZAMJENA ZA 5 (4 BODA)
 //Napisi funkciju u obliku arrow functiona koja pretvara mala slova danih inputa u velika slova
