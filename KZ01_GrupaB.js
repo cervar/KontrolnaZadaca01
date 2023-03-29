@@ -96,7 +96,6 @@ function nesto (prostak) {
 
 
 
-
 //6 (4 BODA)
 //Napisi funkciju koja vraca sve drzave koji su imali manju temperaturu od one iz ulaznog parametra
 const someEvents = [
