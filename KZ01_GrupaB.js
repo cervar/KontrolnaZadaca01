@@ -7,14 +7,7 @@ if (parni % 2!=0);
 console.log.parni;
 
 
-switch (key) {
-    case value:
-        
-        break;
 
-    default:
-        break;
-}
 
 
 //2 (3 BODA)
@@ -31,6 +24,8 @@ switch (1) {
         break;
 
     default:
+
+    console.log ("nešto smo gadno fulali")
         break;
 }
 
@@ -41,6 +36,7 @@ switch (3) {
         break;
 
     default:
+        console.log ("nešto smo gadno fulali")
         break;
 }
 
@@ -48,6 +44,16 @@ switch (3) {
 //Napisi funkciju koja okrece uneseni string i broji charactere uzimajuci u obzir prazna mjesta (eng. whitespaces)
 //INPUT: "Pisanje zadataka nije jednostavan posao"
 //OUTPUT: ("oasop navatsondej ejin akatadaz ejnasiP", 39)
+
+var rec( "Pisanje zadataka nije jednostavan posao");
+
+function okrenime(rec) {
+
+    rever
+    
+}
+
+console.log (okrenime)
 
 
 
