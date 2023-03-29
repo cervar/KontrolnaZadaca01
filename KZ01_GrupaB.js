@@ -45,11 +45,13 @@ switch (3) {
 //INPUT: "Pisanje zadataka nije jednostavan posao"
 //OUTPUT: ("oasop navatsondej ejin akatadaz ejnasiP", 39)
 
-var rec( "Pisanje zadataka nije jednostavan posao");
+var rec, ( 
+    
+    "Pisanje zadataka nije jednostavan posao");
 
 function okrenime(rec) {
 
-    rever
+    rever (rec)
     
 }
 
@@ -79,6 +81,9 @@ const peopleYouShouldKnow = {
 //Napisi funkciju u obliku arrow functiona koja pretvara mala slova danih inputa u velika slova
 //INPUT: ["aa", "b1", "", null, "AAA"]
 //OUTPUT: ["AA","B1", "", null, "AAA"]
+
+
+
 
 //6 (4 BODA)
 //Napisi funkciju koja vraca sve drzave koji su imali manju temperaturu od one iz ulaznog parametra
