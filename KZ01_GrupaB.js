@@ -79,7 +79,9 @@ const peopleYouShouldKnow = {
 const prostak = [3, 4, 5, 8, 11];
 
 function nesto (prostak) {
-    
+    if (prostak !=3,11 ) {
+        console.log("[4, 5, 8]")
+    }
 }
 
 //ZAMJENA ZA 5 (4 BODA)
